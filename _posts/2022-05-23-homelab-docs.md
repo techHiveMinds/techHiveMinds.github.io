@@ -1,6 +1,5 @@
 ---
-# layout: default
-title: Hello
+title: "Hello"
 date: 2020-05-23 12:00:00 -500
 categories: [techHiveMinds,DLTs]
 tags: [C Lang, web3]
